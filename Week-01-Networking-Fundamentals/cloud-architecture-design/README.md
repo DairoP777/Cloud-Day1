@@ -1,5 +1,5 @@
 Cloud Infrastructure Design for a Web Application
-![Cloud Architecture Diagram](architecture-diagram.png)
+![AWS Architecture Diagram](architecture-diagram.png)
 
 
 Project Overview
